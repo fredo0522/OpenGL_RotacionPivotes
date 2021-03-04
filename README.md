@@ -2,4 +2,4 @@
 
 **Author: Luis Alfredo Rodriguez Lopez**
 
-![Screenshot](img/screenshot.png)
+![Screenshot](img/screenshot.PNG)
