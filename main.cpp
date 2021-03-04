@@ -26,7 +26,6 @@ protected:
    bool bUp;        // flag if counting up or down.
    Cola cola;
 
-
 public:
 	myWindow(){}
 
